@@ -8,6 +8,7 @@ int n=0 , a=1 , b=1 , c=0 ;
         c=a+b;
         a=b;
         b=c;
+        cout << c << endl;
     }
    return 0;
 }
