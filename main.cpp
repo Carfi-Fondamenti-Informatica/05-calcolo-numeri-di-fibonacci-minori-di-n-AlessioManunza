@@ -8,10 +8,6 @@ int n=0 , a=1 , b=1 , c=0 ;
         c=a+b;
         a=b;
         b=c;
-        if (c>n) {
-            break;
-        }
-        cout << c << endl;
     }
    return 0;
 }
